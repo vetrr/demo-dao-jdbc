@@ -2,8 +2,10 @@
   <library name="postgresql-42.7.13">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../../JDBC/postgresql-42.7.13.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Java-libs/Jdbc-connectors/postgresql-42.7.13.jar" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Java-libs/Jdbc-connectors/postgresql-42.7.13.jar" recursive="false" />
   </library>
 </component>
